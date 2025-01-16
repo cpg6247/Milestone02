@@ -1,7 +1,7 @@
 pandas
 seaborn
 matplotlib
-olotly
+plotly
 numpy
 kaleido
 jupyter

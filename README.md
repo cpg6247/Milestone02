@@ -1,6 +1,7 @@
 # README.md: Drug Overdose Death Rates Analysis
 # Caroline Gore
 
+## Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cpg6247/Milestone02/main?labpath=milestone02_cpg6247.ipynb)
 ## Project Overview
 
 This project aims to analyze drug overdose death rates across different U.S. states from 2015 to 2023. The analysis seeks to uncover patterns and trends in overdose deaths, both on a state-wise and year-wise basis, using a combination of data visualizations and statistical insights.
